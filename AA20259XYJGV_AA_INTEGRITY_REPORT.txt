@@ -1,0 +1,24 @@
+ 881 RE MONTREAL 2       AA Integrity Report SEE
+
+     ARRANGEMENT.ID.... AA20259XYJGV
+ ------------------------------------------------------------------------------
+   1 ACCOUNT.ID........ 810004490306        EVEX EVOLUTION INC
+   2. 1 CUSTOMER....... C200065611                            EB-MISSING.RECORD
+   3 DRAWDOWN.DATE..... 29 OCT 2020
+   4 PRODUCT.LINE...... LENDING             Lending
+   5. 1 RUN.DATE....... 08 APR 2022
+   6. 1 PRODUCT........ AL.RE.MG.VAR.RATE   Real Estate Mortgage Var Rate
+   7. 1 STATUS......... CURRENT
+   8. 1. 1 P Warning: TOT.DUE.AMT missing when accruals are present
+   9. 1. 1 CATEGORY.SEV Low
+  10. 1. 1 P TOT.DUE.AMT amount<16>~~Accrual amount<16>~2290.97
+   8. 1. 2 P Final interest period not cycled
+   9. 1. 2 CATEGORY.SEV High
+  10. 1. 2 P 20220129
+   8. 1. 3 P Scheduled date less than system date
+   9. 1. 3 CATEGORY.SEV High
+  10. 1. 3 P 20220129
+  11. 1 TOTAL.PROBLEMS. 3
+  12 ACTIVITY.COUNT.... 124
+  13 BRANCH.CODE....... CA001188
+ ----------------------------------------------------------
